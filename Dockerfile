@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/nfsplugin:v4.0.0
+FROM quay.io/cephcsi/cephcsi:v3.6.2
 MAINTAINER jun
