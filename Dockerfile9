@@ -1,0 +1,2 @@
+FROM tugraph/tugraph-runtime-centos7:latest
+MAINTAINER jun
